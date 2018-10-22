@@ -1,0 +1,45 @@
+X:\AAST\project\main\GUI\GUI\bin\Debug\GUI.exe.config
+X:\AAST\project\main\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+X:\AAST\project\main\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+X:\AAST\project\main\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+X:\AAST\project\main\GUI\GUI\bin\Debug\GUI.exe
+X:\AAST\project\main\GUI\GUI\bin\Debug\GUI.pdb
+X:\AAST\project\main\GUI\GUI\obj\Debug\GUI.exe
+X:\AAST\project\main\GUI\GUI\obj\Debug\GUI.pdb
+X:\AAST\project\main\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Ahmad\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Ahmad\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Ahmad\Desktop\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Ahmad\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Ahmad\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Ahmad\Desktop\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Ahmad\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+X:\AAST\project\main\NEW GUI\GUI\bin\Debug\GUI.exe.config
+X:\AAST\project\main\NEW GUI\GUI\obj\Debug\GUI.exe
+X:\AAST\project\main\NEW GUI\GUI\obj\Debug\GUI.pdb
+X:\AAST\project\main\NEW GUI\GUI\bin\Debug\GUI.exe
+X:\AAST\project\main\NEW GUI\GUI\bin\Debug\GUI.pdb
+X:\AAST\project\main\NEW GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+X:\AAST\project\main\NEW GUI\GUI\obj\Debug\GUI.Form1.resources
+X:\AAST\project\main\NEW GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+X:\AAST\project\main\NEW GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\NEW GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\NEW GUI\GUI\bin\Debug\GUI.exe.config
+D:\NEW GUI\GUI\obj\Debug\GUI.exe
+D:\NEW GUI\GUI\obj\Debug\GUI.pdb
+D:\NEW GUI\GUI\bin\Debug\GUI.exe
+D:\NEW GUI\GUI\bin\Debug\GUI.pdb
+D:\NEW GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\NEW GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\NEW GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NEW GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
